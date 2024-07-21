@@ -9,7 +9,7 @@ const LeafletMap = dynamic(() => import("./components/LeafletMap"), {
 const HomePage = () => {
   return (
     <div>
-      <h1>Lims Vehical Map</h1>
+      <h1>Lims Vehicle Map</h1>
       <LeafletMap />
     </div>
   );
